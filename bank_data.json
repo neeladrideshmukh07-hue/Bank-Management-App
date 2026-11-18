@@ -1,0 +1,12 @@
+{
+    "859375": {
+        "account_number": "859375",
+        "name": "Neeladri Deshmukh",
+        "pin": "1234",
+        "balance": 135801.0,
+        "transactions": [
+            "[2026-11-18 23:11:50] Initial Deposit: $123456.00 | Balance: $123456.00",
+            "[2026-11-18 23:12:45] Deposited: $12345.00 | Balance: $135801.00"
+        ]
+    }
+}
